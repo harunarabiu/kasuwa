@@ -1,0 +1,62 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:47
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-agenda:before { content: "\f100"; }
+.flaticon-briefcase:before { content: "\f101"; }
+.flaticon-calculator:before { content: "\f102"; }
+.flaticon-calendar:before { content: "\f103"; }
+.flaticon-calendar-1:before { content: "\f104"; }
+.flaticon-coffee-cup:before { content: "\f105"; }
+.flaticon-credit-card:before { content: "\f106"; }
+.flaticon-desk-chair:before { content: "\f107"; }
+.flaticon-documentation:before { content: "\f108"; }
+.flaticon-files:before { content: "\f109"; }
+.flaticon-folders:before { content: "\f10a"; }
+.flaticon-laptop:before { content: "\f10b"; }
+.flaticon-light-bulb:before { content: "\f10c"; }
+.flaticon-line-chart:before { content: "\f10d"; }
+.flaticon-money:before { content: "\f10e"; }
+.flaticon-money-bag:before { content: "\f10f"; }
+.flaticon-monitor:before { content: "\f110"; }
+.flaticon-mouse:before { content: "\f111"; }
+.flaticon-notebook:before { content: "\f112"; }
+.flaticon-office-block:before { content: "\f113"; }
+.flaticon-padlock:before { content: "\f114"; }
+.flaticon-placeholder:before { content: "\f115"; }
+.flaticon-portfolio:before { content: "\f116"; }
+.flaticon-printer:before { content: "\f117"; }
+.flaticon-printer-1:before { content: "\f118"; }
+.flaticon-ringtone:before { content: "\f119"; }
+.flaticon-safebox:before { content: "\f11a"; }
+.flaticon-smartphone:before { content: "\f11b"; }
+.flaticon-target:before { content: "\f11c"; }
+.flaticon-trophy:before { content: "\f11d"; }
+.flaticon-wallet:before { content: "\f11e"; }
